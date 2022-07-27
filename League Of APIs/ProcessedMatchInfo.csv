@@ -1,0 +1,11 @@
+,summonerName,championName,championId,champLevel,individualPosition,goldEarned,kills,deaths,assists,largestKillingSpree,largestMultiKill,totalDamageDealtToChampions,totalDamageTaken,objectivesStolen,baronKills,win
+0,ZombieKungen,Gnar,150,16,TOP,11653,7,5,4,3,2,22266,27933,0,0,False
+1,Toni Chopper,RekSai,421,13,JUNGLE,10851,8,11,5,3,1,22199,35068,0,0,False
+2,Vate,Veigar,45,14,MIDDLE,9745,3,4,8,2,1,20816,20740,0,0,False
+3,onę eyed king,Draven,119,12,BOTTOM,8659,1,10,5,0,1,12386,20500,0,0,False
+4,Tohuwabohuy,Leona,89,13,UTILITY,6959,3,7,11,0,1,5137,21408,0,0,False
+5,Thebausffs,Sion,14,16,TOP,14140,7,8,5,2,1,25612,36622,0,0,True
+6,GG Gaboesh,Diana,131,15,JUNGLE,13877,12,3,13,5,2,28871,25938,0,0,True
+7,Byczak,Akshan,166,15,MIDDLE,12324,7,6,8,2,2,22180,19611,0,0,True
+8,Lφuis,Ezreal,81,15,BOTTOM,13272,10,2,11,4,1,23547,12075,0,1,True
+9,Faust Osmi,Rakan,497,14,UTILITY,8755,1,3,23,0,1,7654,20729,0,0,True
